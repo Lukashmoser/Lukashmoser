@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Lukas
-### A student 🎓 at the University of British Columbia who's always had an obsession with tech 💻 and really anything I my brain gets stuck on (Currently cars 🚗 and working out 🔩)
+### A student 🎓 at the University of British Columbia who's always had an obsession with tech 💻 and really anything my brain gets stuck on (Currently cars 🚗 and working out 🔩)
 
 - 🔭 I’m currently getting involved in the [Trino](trino.io) community as an Open Source contributor
 -  🌱 I’m currently learning about OS's, software architecture, and I/O architectures in CPSC 213
