@@ -2,7 +2,7 @@
 ### A student 🎓 at the University of British Columbia who's always had an obsession with tech 💻 and really anything my brain gets stuck on, including cars 🚗 and working out 🔩.
 
 - 🔭 Involved in the [Trino](trino.io) community as an open source contributor
--  🌱 I’m currently learning about OS's, software architecture, and I/O architectures in CPSC 213
+-  🌱 I’m currently learning about Computer Networking, AI, and Relational Databases at UBC
 - ✉️ Contact: lukashmoser@gmail.com
 - 🔗 LinkedIn: [Lukas Moser](https://www.linkedin.com/in/lukashmoser/)
 
